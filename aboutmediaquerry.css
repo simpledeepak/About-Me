@@ -1,9 +1,5 @@
 @media screen and (max-width: 755px) {
 
-    body{
-        background-color: aqua;
-    }
-
     .about h3{
         font-size: 15px;
     }
